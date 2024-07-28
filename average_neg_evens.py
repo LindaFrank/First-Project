@@ -17,3 +17,5 @@ def main():
     print(average_neg_evens(input_list))
 ##    average_neg_evens(input_list)
 main()
+# Linda Franklin
+# 07-28-24
